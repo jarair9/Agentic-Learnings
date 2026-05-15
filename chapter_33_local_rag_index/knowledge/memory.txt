@@ -1,0 +1,4 @@
+Memory helps an agent keep useful information across turns or sessions.
+Short-term memory is usually conversation context.
+Long-term memory can be stored in files, databases, or vector stores.
+

@@ -1,0 +1,5 @@
+An AI agent is a program that uses a model to decide what to do next.
+The agent can use tools, such as reading files, searching notes, or calculating.
+An agent loop keeps running until the task is finished or a safety limit stops it.
+Good agents need clear prompts, safe tools, memory, and error handling.
+

@@ -1,0 +1,5 @@
+An agent loop is the repeated cycle of asking the model what to do next.
+If the model asks for a tool, Python runs the tool and sends the result back.
+The loop continues until the model gives a final answer or a safety limit stops it.
+This pattern is useful because the model can make decisions while Python handles real actions.
+

@@ -1,0 +1,4 @@
+Tools let an agent use abilities outside the language model.
+For example, a tool can read a file, search notes, calculate math, or call an API.
+The model decides when a tool is useful, but Python code runs the tool.
+
